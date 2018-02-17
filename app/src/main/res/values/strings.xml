@@ -1,0 +1,88 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Title for the application. [CHAR LIMIT=30] -->
+    <string name="app_name">m32O - Android History Quiz</string>
+
+    <!-- Hint text display in the user name field [CHAR LIMIT=30] -->
+    <string name="player_name_hint">What is your droid name?</string>
+
+    <!-- Question statements [CHAR LIMIT=50] -->
+    <string name="q1_statement">1. The first public release of Android was 1.0</string>
+    <string name="q2_statement">2. What was the codename of Android 1.1?</string>
+    <string name="q3_statement">3. Which of these apply to Honeycomb?</string>
+    <string name="q4_statement">4. Which of these sported a Holo theme?</string>
+    <string name="q5_statement">5. What was so special about Android K?</string>
+    <string name="q6_statement">6. When was Material Design first showcased?</string>
+    <string name="q7_statement">7. Since when is Kotlin officially supported?</string>
+    <string name="q8_statement">8. Which is the most popular flavor to date?</string>
+    <string name="q9_statement">9. m32O&#8230; Where does this come from?</string>
+    <string name="q10_statement">10. What is your Android P name prediction?</string>
+
+    <!-- RadioButton answers [CHAR LIMIT=50] -->
+    <string name="q1_radioButton1">Right</string>
+    <string name="q1_radioButton2">Wrong</string>
+
+    <string name="q2_radioButton1">Gingerbread</string>
+    <string name="q2_radioButton2">Petit four</string>
+    <string name="q2_radioButton3">Cupcake</string>
+    <string name="q2_radioButton4">It didn’t have any codename</string>
+
+    <string name="q3_radioButton1">3.0</string>
+    <string name="q3_radioButton2">4.0</string>
+    <string name="q3_radioButton3">4.0.1</string>
+    <string name="q3_radioButton4">4.0.2</string>
+
+    <string name="q6_radioButton1">Google I/O 2012</string>
+    <string name="q6_radioButton2">Google I/O 2013</string>
+    <string name="q6_radioButton3">Google I/O 2014</string>
+    <string name="q6_radioButton4">Google I/O 2015</string>
+
+    <string name="q7_radioButton1">2015</string>
+    <string name="q7_radioButton2">2016</string>
+    <string name="q7_radioButton3">2017</string>
+    <string name="q7_radioButton4">It is not officially supported yet</string>
+
+    <string name="q8_radioButton1">Lollipop</string>
+    <string name="q8_radioButton2">Marshmallow</string>
+    <string name="q8_radioButton3">Nougat</string>
+    <string name="q8_radioButton4">Oreo</string>
+
+    <string name="q9_radioButton1">Nickname of Android’s creator</string>
+    <string name="q9_radioButton2">First and last Android public releases</string>
+    <string name="q9_radioButton3">Favorite chemical element of the Android team</string>
+    <string name="q9_radioButton4">Star Wars droid naming conventions</string>
+
+    <!-- CheckBox answers [CHAR LIMIT=50] -->
+    <string name="q4_checkbox1">3.0</string>
+    <string name="q4_checkbox2">4.0</string>
+    <string name="q4_checkbox3">4.1</string>
+    <string name="q4_checkbox4">4.4</string>
+
+    <string name="q5_checkbox1">Material Design</string>
+    <string name="q5_checkbox2">Project Svelte</string>
+    <string name="q5_checkbox3">Fragments</string>
+    <string name="q5_checkbox4">ART</string>
+
+    <!-- Free field hint [CHAR LIMIT=20] -->
+    <string name="q10_free_field">Take a guess</string>
+
+
+    <!-- Buttons [CHAR LIMIT=30] -->
+    <string name="button_submit">Submit answers</string>
+    <string name="button_reset">Play again</string>
+
+    <!-- Toast results [CHAR LIMIT=30] -->
+    <string name="toast_perfect">"Android S for success! <xliff:g example="10" id="score">%d</xliff:g>/10! Congrats <xliff:g example="Amaël" id="PLAYER_NAME">%s</xliff:g>, you got everything right :D"</string>
+    <string name="toast_perfect_almost">"<xliff:g example="9" id="score">%d</xliff:g>/10! Excellent score <xliff:g example="Amaël" id="PLAYER_NAME">%s</xliff:g>! Well done :)"</string>
+    <string name="toast_good">"<xliff:g example="8" id="score">%d</xliff:g>/10! That's pretty good <xliff:g example="Amaël" id="PLAYER_NAME">%s</xliff:g>! Well done :)"</string>
+    <string name="toast_medium">"Well, you survived! <xliff:g example="2/10" id="score">%d</xliff:g>/10. Good effort <xliff:g example="Amaël" id="PLAYER_NAME">%s</xliff:g>"</string>
+    <string name="toast_bad">"<xliff:g example="3" id="score">%d</xliff:g>/10. That's a good start <xliff:g example="Amaël" id="PLAYER_NAME">%s</xliff:g>. But you can do better! Dare to try again?"</string>
+    <string name="toast_mediocre">"<xliff:g example="1" id="score">%d</xliff:g>/10. That's not very good <xliff:g example="Amaël" id="PLAYER_NAME">%s</xliff:g>&#8230; Dare to try again?"</string>
+    <string name="toast_zero">"<xliff:g example="0" id="score">%d</xliff:g>/10&#8230; What? Come on <xliff:g example="Amaël" id="PLAYER_NAME">%s</xliff:g>! You didn't even try, did you?"</string>
+
+    <!-- Toast interaction [CHAR LIMIT=30] -->
+    <string name="toast_player_name_missing">You didn\'t give me your name :(</string>
+    <string name="toast_reset">Alright! Here we go for another round!</string>
+
+
+</resources>

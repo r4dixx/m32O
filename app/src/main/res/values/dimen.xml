@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="DimenEditText">24sp</dimen>
+    <dimen name="DimenTextTitle">18sp</dimen>
+    <dimen name="DimenTextBody">18sp</dimen>
+    <dimen name="DimenSpacing">16dp</dimen>
+    <dimen name="DimenSpacingBig">24dp</dimen>
+    <dimen name="DimenSpacingVeryBig">32dp</dimen>
+    <dimen name="DimenSpacingHuge">64dp</dimen>
+    <dimen name="DimenSpacingHalf">8dp</dimen>
+    <dimen name="DimenTouchTarget">48dp</dimen>
+</resources>

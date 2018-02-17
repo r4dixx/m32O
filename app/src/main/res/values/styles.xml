@@ -1,0 +1,76 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="appTheme" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- LinearLayout -->
+    <style name="linearLayoutTheme" parent="Theme.AppCompat">
+        <!-- Margins and paddings -->
+        <item name="android:layout_marginTop">@dimen/DimenSpacing</item>
+        <item name="android:layout_marginLeft">@dimen/DimenSpacing</item>
+        <item name="android:layout_marginRight">@dimen/DimenSpacing</item>
+    </style>
+
+    <!-- Name field -->
+    <style name="nameField" parent="Theme.AppCompat">
+        <!-- Margins and paddings -->
+        <item name="android:layout_marginTop">@dimen/DimenSpacing</item>
+        <item name="android:layout_marginBottom">@dimen/DimenSpacing</item>
+        <!-- Text style -->
+        <item name="android:textSize">@dimen/DimenEditText</item>
+        <item name="android:textColor">@color/colorLightGrey</item>
+    </style>
+
+    <!-- Question statements -->
+    <style name="questionStatements" parent="Theme.AppCompat">
+        <!-- Margins and paddings -->
+        <item name="android:layout_marginBottom">@dimen/DimenSpacing</item>
+        <item name="android:layout_marginTop">@dimen/DimenSpacing</item>
+        <!-- Text style -->
+        <item name="android:textSize">@dimen/DimenTextTitle</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/colorLightGrey</item>
+    </style>
+
+    <!-- Question answers -->
+    <style name="questionAnswers" parent="Theme.AppCompat">
+        <!-- Margins and paddings -->
+        <item name="android:layout_marginBottom">@dimen/DimenSpacing</item>
+        <item name="android:paddingLeft">@dimen/DimenSpacingHalf</item>
+        <!-- Text style -->
+        <item name="android:textSize">@dimen/DimenTextBody</item>
+        <item name="android:textColor">@android:color/darker_gray</item>
+    </style>
+
+    <!-- Free field -->
+    <style name="freeField" parent="Theme.AppCompat">
+        <!-- Margins and paddings -->
+        <item name="android:layout_marginBottom">@dimen/DimenSpacing</item>
+        <!-- Text style -->
+        <item name="android:textSize">@dimen/DimenTextBody</item>
+        <item name="android:textColor">@android:color/darker_gray</item>
+    </style>
+
+    <!-- Buttons -->
+    <style name="button" parent="Theme.AppCompat">
+        <!-- Positionning -->
+        <item name="android:gravity">center</item>
+        <!-- Margins and paddings -->
+        <item name="android:layout_marginLeft">@dimen/DimenSpacingHuge</item>
+        <item name="android:layout_marginRight">@dimen/DimenSpacingHuge</item>
+        <item name="android:layout_marginTop">@dimen/DimenSpacingBig</item>
+        <item name="android:layout_marginBottom">@dimen/DimenSpacingHuge</item>
+        <item name="android:paddingTop">@dimen/DimenSpacingBig</item>
+        <item name="android:paddingBottom">@dimen/DimenSpacingBig</item>
+        <!-- Text style -->
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">@dimen/DimenTextTitle</item>
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:textColor">@android:color/white</item>
+
+    </style>
+</resources>
