@@ -1,0 +1,7 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="allowReplaceRegexp" value="Udacity 2017-2018" />
+    <option name="notice" value="NOTE FOR UDACITY STUDENTS&#10;&#10;This project was submitted by Amaël Sikel aka r4dixx, as part of Udacity's Android Basics Nanodegree (Google Developer Challenge 2017-2018)&#10;&#10;As stated in the Udacity Honor Code and Community Code of Conduct, any project and/or submission must be your own work:&#10;&#10;&quot;Any User of the Online Courses agrees that he or she: [...]&#10;&#10;will not cheat on any homework assignment or exams for the Online Courses;&#10;will not share solutions to homework assignments or exams; [...] By using Udacity services, you commit yourself to:&#10;notify a Udacity Coach immediately if I become aware of cheating or plagiarism by any Nanodegree student.&quot;&#10;Submitting this project as yours will cause you to break the Udacity Honor Code and Community Code of Conduct referenced aboce and can lead to the suspension of your account.&#10;&#10;I, the author of this project, put the whole project code to open-source for help and reference but assumes no responsibility if you get penalized and/or expelled for submitting it as your own.&#10;&#10;Full Udacity Honor Code and Community Code of Conduct can be found at: &#10;udacity.com/legal/community-guidelines" />
+    <option name="myName" value="Udacity Disclaimer 2018" />
+  </copyright>
+</component>
