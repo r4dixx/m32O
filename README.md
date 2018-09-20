@@ -5,7 +5,7 @@
 <br/>
 <div align="center"><img src="demo/ezgif-5-e34bda668a.gif"></img></div>
 <h2>About</h2>
-Fourth of four student projects made in 2017-2018 as part of <a href="https://eu.udacity.com/course/android-basics-nanodegree-by-google--nd803" target="_blank">Udacity's Android Basics Nanodegree</a>.
+Fourth of eight student projects made in 2017-2018 as part of <a href="https://eu.udacity.com/course/android-basics-nanodegree-by-google--nd803" target="_blank">Udacity's Android Basics Nanodegree</a>.
 
 <h3>☑️ Phase 1 - (Nov. - Feb.):</h3>
 
@@ -14,9 +14,13 @@ Fourth of four student projects made in 2017-2018 as part of <a href="https://eu
 3. <a href="https://github.com/r4dixx/CheesyWinterContest" target="_blank">Cheesy Winter Contest</a>
 4. <a href="https://github.com/r4dixx/m32O" target="_blank"><strong>m32O</strong></a>
 
-<h3>⏳ Phase 2 - (Feb. - Aug.):</h3>
+<h3>☑️ Phase 2 - (Feb. - Jul.):</h3>
 
-*In progress*
+1. <a href="https://github.com/r4dixx/RookiePlayer">Rookie Player</a>
+2. <a href="https://github.com/r4dixx/VisitCalgary">Visit Calgary</a>
+3. <a href="https://github.com/r4dixx/TheGuardianView">The Guardian View</a>
+4. <a href="https://github.com/r4dixx/Flourish-And-Blotts-Book-Registry">Flourish & Blotts - Book Registry</a>
+
 <h2>Goal and requirements</h2>
 
 Design and implement an educational quiz app. 
