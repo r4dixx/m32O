@@ -48,10 +48,10 @@ Or use <a href="https://github.com/cesarferreira/dryrun" target="_blank">`dryrun
 
 <h2>Contributing</h2>
 
-This project is open to suggestions and improvements. Simply create a Pull Request and I'll have a look.
+This project is open to code improvements.
 
 <h2>Project status</h2>
-Open to translation and code suggestions. Closed feature-wise.
+Open to code improvements only. Closed for anything else.
 
 <h2>Credits</h2>
 
